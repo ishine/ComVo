@@ -54,11 +54,11 @@ python infer.py -c configs/configs.yaml --file_list=test.txt
 
 ```bibtex
 @inproceedings{
-    anonymous2026toward,
-    title={Toward Complex-Valued Neural Networks for Waveform Generation},
-    author={Anonymous},
-    booktitle={The Fourteenth International Conference on Learning Representations},
-    year={2026},
-    url={https://openreview.net/forum?id=U4GXPqm3Va}
+  oh2026toward,
+  title={Toward Complex-Valued Neural Networks for Waveform Generation},
+  author={Hyung-Seok Oh and Deok-Hyeon Cho and Seung-Bin Kim and Seong-Whan Lee},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=U4GXPqm3Va}
 }
 ```
