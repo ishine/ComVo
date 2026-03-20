@@ -10,7 +10,7 @@ from exp.experiment import ComVoExp
 from exp.loss import cFeatureMatchingLoss, cGeneratorLoss, cDiscriminatorLoss
 
 
-class ComVoExp(ComVoExp):
+class ComVoExp_cdisc(ComVoExp):
     def __init__(
         self,
         feature_extractor: FeatureExtractor,
